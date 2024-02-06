@@ -11,7 +11,6 @@ public static void main(String[] args) {
 		}else 
 			if(max!=arr[i]&&secondmax<arr[i]){
 				secondmax=arr[i];
-
 			}
 		}
 		System.out.println(secondmax);
